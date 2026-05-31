@@ -111,7 +111,7 @@ const DAYS: DayData[] = [
 						title: "Check In — Hyatt Centric",
 						description:
 							"621 Rue Notre-Dame Est, Old Montréal. Your base for the whole trip.",
-						link: "https://www.google.com/maps/place/?q=place_id:ChIJcdW2wVQayUwRh0405vZfjNo",
+						link: "https://www.google.com/maps/search/?api=1&query_place_id=ChIJcdW2wVQayUwRh0405vZfjNo&query=Montreal",
 					},
 					{
 						emoji: "🌊",
@@ -119,7 +119,7 @@ const DAYS: DayData[] = [
 						description:
 							"Stroll the Promenade du Vieux-Port along the St. Lawrence. Shake off the train ride.",
 						walk: "~8 min south from hotel",
-						link: "https://www.google.com/maps/place/?q=place_id:ChIJTw1XwFcayUwRrEyntXolb9E",
+						link: "https://www.google.com/maps/search/?api=1&query_place_id=ChIJTw1XwFcayUwRrEyntXolb9E&query=Montreal",
 					},
 					{
 						emoji: "☕",
@@ -127,7 +127,7 @@ const DAYS: DayData[] = [
 						description:
 							"Tiny Québécois épicerie-café. Great espresso, pastries, local snacks. Perfect first stop.",
 						walk: "~9 min west on Rue Saint-Paul",
-						link: "https://www.google.com/maps/place/?q=place_id:ChIJM0mfNFgayUwRp2hUS-6QUA0",
+						link: "https://www.google.com/maps/search/?api=1&query_place_id=ChIJM0mfNFgayUwRp2hUS-6QUA0&query=Montreal",
 					},
 				],
 			},
@@ -140,7 +140,7 @@ const DAYS: DayData[] = [
 						description:
 							"Intimate Italian charcuterie spot with housemade pasta and a tight wine list — easily the most polished dinner of the trip.",
 						walk: "~6 min north from hotel",
-						link: "https://www.google.com/maps/place/?q=place_id:ChIJv-f3Q1QayUwRE26nKFmRem8",
+						link: "https://www.google.com/maps/search/?api=1&query_place_id=ChIJv-f3Q1QayUwRE26nKFmRem8&query=Montreal",
 						note: "⚠️ Closed Mon & Tue — check your arrival day and book ahead!",
 					},
 					{
@@ -149,7 +149,7 @@ const DAYS: DayData[] = [
 						description:
 							"Terrasse restaurants, street performers, old gas lamps. The heart of Old Montréal at night.",
 						walk: "~5 min south from Salumi Vino",
-						link: "https://www.google.com/maps/place/?q=place_id:ChIJY6aLhVYayUwR92cn3qLBE_Y",
+						link: "https://www.google.com/maps/search/?api=1&query_place_id=ChIJY6aLhVYayUwR92cn3qLBE_Y&query=Montreal",
 					},
 				],
 			},
@@ -171,7 +171,7 @@ const DAYS: DayData[] = [
 						description:
 							"Outstanding croissants, house-baked pastries, great coffee. Locals’ pick, not a tourist trap.",
 						walk: "~3 min from hotel",
-						link: "https://www.google.com/maps/place/?q=place_id:ChIJtWYX-sQbyUwRetZa6msbmDM",
+						link: "https://www.google.com/maps/search/?api=1&query_place_id=ChIJtWYX-sQbyUwRetZa6msbmDM&query=Montreal",
 					},
 					{
 						emoji: "🧱",
@@ -191,7 +191,7 @@ const DAYS: DayData[] = [
 						description:
 							"Massive NY-style pizza slices, dead simple, very good. Cash-friendly, no fuss.",
 						walk: "~9 min west on Rue Saint-Paul",
-						link: "https://www.google.com/maps/place/?q=place_id:ChIJF66ZZnYbyUwRdM9lHW2CHX0",
+						link: "https://www.google.com/maps/search/?api=1&query_place_id=ChIJF66ZZnYbyUwRdM9lHW2CHX0&query=Montreal",
 					},
 					{
 						emoji: "🍳",
@@ -199,7 +199,7 @@ const DAYS: DayData[] = [
 						description:
 							"Beloved brunch institution. Ricotta toast or banoffee French toast. Line moves fast.",
 						walk: "~10 min west on Rue Saint-Paul",
-						link: "https://www.google.com/maps/place/?q=place_id:ChIJY1hhAlkayUwRKhS-sLnn1Ys",
+						link: "https://www.google.com/maps/search/?api=1&query_place_id=ChIJY1hhAlkayUwRKhS-sLnn1Ys&query=Montreal",
 					},
 				],
 			},
@@ -212,7 +212,7 @@ const DAYS: DayData[] = [
 						description:
 							"Buy tickets online! The AURA light show is worth it if running. Genuinely jaw-dropping interior.",
 						walk: "~2 min from Olive et Gourmando",
-						link: "https://www.google.com/maps/place/?q=place_id:ChIJPXGXWFcayUwRqpYNHZ_v_B8",
+						link: "https://www.google.com/maps/search/?api=1&query_place_id=ChIJPXGXWFcayUwRqpYNHZ_v_B8&query=Montreal",
 					},
 					{
 						emoji: "🏛️",
@@ -220,7 +220,7 @@ const DAYS: DayData[] = [
 						description:
 							"Iconic silver-domed landmark. Local artisan shops. Worth a wander.",
 						walk: "~8 min east on Rue Saint-Paul",
-						link: "https://www.google.com/maps/place/?q=place_id:ChIJH1lQy1UayUwRaUKBtKz7mOg",
+						link: "https://www.google.com/maps/search/?api=1&query_place_id=ChIJH1lQy1UayUwRaUKBtKz7mOg&query=Montreal",
 					},
 				],
 			},
@@ -233,7 +233,7 @@ const DAYS: DayData[] = [
 						description:
 							"Smoked meat poutine is the move. Courtyard seating, solid gravy, big portions.",
 						walk: "~5 min from hotel",
-						link: "https://www.google.com/maps/place/?q=place_id:ChIJk1e6X1YayUwRDSRqCFzIyqI",
+						link: "https://www.google.com/maps/search/?api=1&query_place_id=ChIJk1e6X1YayUwRDSRqCFzIyqI&query=Montreal",
 					},
 					{
 						emoji: "🫦",
@@ -241,7 +241,7 @@ const DAYS: DayData[] = [
 						description:
 							"Upscale Québécois chalet vibe — braised bison, truffle poutine, locally sourced everything.",
 						walk: "~9 min west",
-						link: "https://www.google.com/maps/place/?q=place_id:ChIJx6CXkFkayUwR51RgtGrDMpo",
+						link: "https://www.google.com/maps/search/?api=1&query_place_id=ChIJx6CXkFkayUwR51RgtGrDMpo&query=Montreal",
 					},
 				],
 			},
@@ -267,7 +267,7 @@ const DAYS: DayData[] = [
 						title: "Light Breakfast: Le Petit Dep",
 						description: "Coffee and a pastry to ease into the day.",
 						walk: "~9 min walk",
-						link: "https://www.google.com/maps/place/?q=place_id:ChIJM0mfNFgayUwRp2hUS-6QUA0",
+						link: "https://www.google.com/maps/search/?api=1&query_place_id=ChIJM0mfNFgayUwRp2hUS-6QUA0&query=Montreal",
 					},
 				],
 			},
@@ -291,7 +291,7 @@ const DAYS: DayData[] = [
 						title: "Low-key: Slice + Soda",
 						description: "Pizza and a cold beer. Done.",
 						walk: "~9 min",
-						link: "https://www.google.com/maps/place/?q=place_id:ChIJF66ZZnYbyUwRdM9lHW2CHX0",
+						link: "https://www.google.com/maps/search/?api=1&query_place_id=ChIJF66ZZnYbyUwRdM9lHW2CHX0&query=Montreal",
 					},
 					{
 						emoji: "🎷",
@@ -299,7 +299,7 @@ const DAYS: DayData[] = [
 						description:
 							"Garden courtyard with live jazz every evening after 6pm. Arrive by 5pm to snag a table.",
 						walk: "~5 min south to Place Jacques-Cartier",
-						link: "https://www.google.com/maps/place/?q=place_id:ChIJpVn8h1YayUwR7qA4GYdAphM",
+						link: "https://www.google.com/maps/search/?api=1&query_place_id=ChIJpVn8h1YayUwR7qA4GYdAphM&query=Montreal",
 					},
 				],
 			},
@@ -320,7 +320,7 @@ const DAYS: DayData[] = [
 						title: "Breakfast: Café de Mercanti",
 						description: "Excellent espresso, fresh croissants and sandwiches.",
 						walk: "~2 min from hotel",
-						link: "https://www.google.com/maps/place/?q=place_id:ChIJHba5RlQayUwR8mZHG6sxGRM",
+						link: "https://www.google.com/maps/search/?api=1&query_place_id=ChIJHba5RlQayUwR8mZHG6sxGRM&query=Montreal",
 					},
 				],
 			},
@@ -337,7 +337,7 @@ const DAYS: DayData[] = [
 						title: "Kondiaronk Belvedere — Mount Royal",
 						description:
 							"Panoramic view over all of downtown Montréal. Best views in the city, free, open all day.",
-						link: "https://www.google.com/maps/place/?q=place_id:ChIJ__-_hzsayUwRRU2SDjpeLy0",
+						link: "https://www.google.com/maps/search/?api=1&query_place_id=ChIJ__-_hzsayUwRRU2SDjpeLy0&query=Montreal",
 					},
 					{
 						emoji: "🚕",
@@ -367,7 +367,7 @@ const DAYS: DayData[] = [
 						description:
 							"Martin Picard’s legendary Québécois excess — foie gras poutine, duck in a can, smoked meat. Loud, fun, unforgettable.",
 						walk: "~10 min Uber to Plateau-Mont-Royal",
-						link: "https://www.google.com/maps/place/?q=place_id:ChIJD3Xvs84byUwR3Fs17jyjkjA",
+						link: "https://www.google.com/maps/search/?api=1&query_place_id=ChIJD3Xvs84byUwR3Fs17jyjkjA&query=Montreal",
 						note: "⚠️ Closed Mon & Tue. Book well in advance!",
 					},
 					{
@@ -376,7 +376,7 @@ const DAYS: DayData[] = [
 						description:
 							"The most famous smoked meat in Canada, since 1928. Medium fat, cherry Coke, expect a line.",
 						walk: "~10 min Uber to The Main",
-						link: "https://www.google.com/maps/place/?q=place_id:ChIJEWsAWDMayUwRQPiLFOWhYdk",
+						link: "https://www.google.com/maps/search/?api=1&query_place_id=ChIJEWsAWDMayUwRQPiLFOWhYdk&query=Montreal",
 					},
 					{
 						emoji: "🫦",
@@ -384,7 +384,7 @@ const DAYS: DayData[] = [
 						description:
 							"If you skipped Day 2 — chalet-style Québécois, great wine list, local ingredients.",
 						walk: "~9 min walk",
-						link: "https://www.google.com/maps/place/?q=place_id:ChIJx6CXkFkayUwR51RgtGrDMpo",
+						link: "https://www.google.com/maps/search/?api=1&query_place_id=ChIJx6CXkFkayUwR51RgtGrDMpo&query=Montreal",
 					},
 					{
 						emoji: "🌊",
@@ -411,7 +411,7 @@ const DAYS: DayData[] = [
 						title: "Quick Breakfast: Le Petit Dep",
 						description: "Coffee and a pastry for the road.",
 						walk: "~9 min",
-						link: "https://www.google.com/maps/place/?q=place_id:ChIJM0mfNFgayUwRp2hUS-6QUA0",
+						link: "https://www.google.com/maps/search/?api=1&query_place_id=ChIJM0mfNFgayUwRp2hUS-6QUA0&query=Montreal",
 					},
 					{
 						emoji: "🧱",
