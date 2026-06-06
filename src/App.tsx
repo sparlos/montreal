@@ -601,7 +601,7 @@ function Hero() {
 					animate={{ opacity: 1, y: 0 }}
 					transition={{ delay: 0.15, duration: 0.5 }}
 				>
-					🇨🇦 5 days · Old Montréal · 2025
+					🇨🇦 5 days · Old Montréal · 2026
 				</motion.p>
 
 				<div className="hero-title">
@@ -949,7 +949,7 @@ export default function App() {
 				>
 					🦢❤️🫎
 				</motion.div>
-				<p className="footer-title">Goose & Moose · Montréal 2025</p>
+				<p className="footer-title">Goose & Moose · Montréal 2026</p>
 				<p className="footer-sub">⚜️ Bon voyage! ⚜️</p>
 			</footer>
 		</div>
